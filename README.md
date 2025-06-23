@@ -4,8 +4,8 @@ A python discord bot with many features which uses A1111 as backend and uses my 
 ## Features
 It has many features:
 - It generates 2 images
-- Abitlity to upscale the images
-- Abitlity to create small variations of the images
+- Ability to upscale the images
+- Ability to create small variations of the images
 - Retrying with the same settings
 - Beautiful images with simple prompts thanks to the prompt templates
 - Works with the A1111 - no need for 2 stable diffusion installations
